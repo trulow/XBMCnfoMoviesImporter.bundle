@@ -34,6 +34,6 @@ User MattJ from the plex forum reported the following steps to install on ubuntu
 Done.
 
 ### Supported File Formats:
-[https://kodi.wiki/view/NFO_files/TV_shows](https://kodi.wiki/view/NFO_files/Movies)
+[https://kodi.wiki/view/NFO_files/Movies](https://kodi.wiki/view/NFO_files/Movies)
 
 [https://www.xbmc4xbox.org.uk/wiki/Import_-_Export_Library](https://www.xbmc4xbox.org.uk/wiki/Import_-_Export_Library)
